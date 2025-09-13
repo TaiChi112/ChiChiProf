@@ -1,3 +1,6 @@
+> [!WARNING]
+> Sorry, I'll write an explanation about the project later.
+
 # Rspress website
 
 ## Setup
