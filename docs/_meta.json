@@ -1,13 +1,17 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
+    "text": "Project",
+    "link": "/project/project",
+    "activeMatch": "/project/"
   },
   {
-    "text": "Hello world",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
+    "text": "Blog",
+    "link": "/blog/computer_science/introduction",
+    "activeMatch": "/blog/computer_science/introduction"
+  },
+  {
+    "text": "Leetcode",
+    "link": "https://leetcode.com/u/TaiChi112/"
   },
   {
     "text": "API",
