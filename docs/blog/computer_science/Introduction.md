@@ -1,2 +1,0 @@
-# Introduction to Computer Science
-Computer Science is the study of computers and computational systems. It involves understanding the theory, development, and application of algorithms and data structures, as well as the design and implementation of software and hardware systems. Computer Science encompasses a wide range of topics, including programming, networking, artificial intelligence, and human-computer interaction. It plays a crucial role in today's technology-driven world, powering everything from smartphones to supercomputers.
